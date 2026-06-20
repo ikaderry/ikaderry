@@ -1,4 +1,4 @@
-# Hi there, I'm Atiqah! 🎀✨ (@ikaderry)
+# Hi there, I'm Tiqah! (@ikaderry) ✨ 
 
 *"I'm just a girl in the world..."* 🌎💫
 
