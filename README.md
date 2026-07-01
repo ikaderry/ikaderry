@@ -28,4 +28,4 @@ If you have an open role, some career advice, or just want to connect, please te
 ### 🍡 Fun Facts!
 When I'm not coding or stressing about job hunting,
 you can find me consuming an unhealthy amount of media. 
-I absolutely love **K-pop**, **K-dramas**, **C-dramas**, **J-dramas**, and **Anime** (I'm a big fan *Naruto* or *EXO*). Let's be friends! ✌️
+I absolutely love **K-pop**, **K-dramas**, **C-dramas**, **J-dramas**, and **Anime** (I'm a big fan *Naruto*). Let's be friends! ✌️
