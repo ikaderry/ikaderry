@@ -6,7 +6,9 @@ Welcome to my GitHub! I am a final-year Information Technology student and curre
 
 ###  Who am I?
  **Student & Explorer:** I'm an IT student deeply interested in **Data Analysis, Machine Learning, Frontend Web Development, Networking,** and **Cloud Computing**. 
+
  **Always Learning:** I might not show off a massive portfolio of advanced skills just yet because I'm still actively exploring, learning, and growing every single day. 
+ 
  **Hire Me Please:** To any recruiters or talent acquisition folks reading this: I am eager, passionate, and looking for my first big break in the tech field! I promise to give it my absolute best and deliver top performance for you and your company. 🤝✨
 
 ### 💻 What tools do I use?
