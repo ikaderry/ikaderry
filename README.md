@@ -4,10 +4,10 @@
 
 Welcome to my GitHub! I am a final-year Information Technology student and currently surviving my internship at an aviation company and TBH im crying over finding my first full-time job. 🥲💼
 
-### 🌸 Who am I?
-* 🎓 **Student & Explorer:** I'm an IT student deeply interested in **Data Analysis, Machine Learning, Frontend Web Development, Networking,** and **Cloud Computing**. 
-* 🌱 **Always Learning:** I might not show off a massive portfolio of advanced skills just yet because I'm still actively exploring, learning, and growing every single day. 
-* 🔥 **Hire Me Please:** To any recruiters or talent acquisition folks reading this: I am eager, passionate, and looking for my first big break in the tech field! I promise to give it my absolute best and deliver top performance for you and your company. 🤝✨
+###  Who am I?
+ **Student & Explorer:** I'm an IT student deeply interested in **Data Analysis, Machine Learning, Frontend Web Development, Networking,** and **Cloud Computing**. 
+ **Always Learning:** I might not show off a massive portfolio of advanced skills just yet because I'm still actively exploring, learning, and growing every single day. 
+ **Hire Me Please:** To any recruiters or talent acquisition folks reading this: I am eager, passionate, and looking for my first big break in the tech field! I promise to give it my absolute best and deliver top performance for you and your company. 🤝✨
 
 ### 💻 What tools do I use?
 Here is the tech stack and the tools I currently use to bring ideas to life:
@@ -22,10 +22,10 @@ Here is the tech stack and the tools I currently use to bring ideas to life:
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 ![WordPress](https://img.shields.io/badge/WordPress-%23117B85.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 
-### 💌 How to reach me?
+###  How to reach me?
 If you have an open role, some career advice, or just want to connect, please text or reach me at LinkedIn or my portfolio. I always open!
 
-### 🍡 Fun Facts!
+### Fun Facts!
 When I'm not coding or stressing about job hunting,
 you can find me consuming an unhealthy amount of media. 
 I absolutely love **K-pop**, **K-dramas**, **C-dramas**, **J-dramas**, and **Anime** (I'm a big fan *Naruto*). Let's be friends! ✌️
